@@ -13,4 +13,5 @@ http://www.sauronsoftware.it/projects/ftp4j/
 The 16x16 pixel icons are from the Silk collection and the Tango collection.
 
 Silk: http://www.famfamfam.com/lab/icons/silk/
+
 Tango: https://commons.wikimedia.org/wiki/Tango_icons
