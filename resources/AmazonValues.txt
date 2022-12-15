@@ -1,0 +1,246 @@
+#
+# Amazon's fine array of binding "choices":
+# accessory audioCD bath_book board_book bonded_leather calendar cards cassette cd_rom
+# comic diary dvd_rom flexibound foam_book game hardcover hardcover_spiral imitation_leather
+# journal leather_bound library library_audio_cd library_audio_mp3 loose_leaf map
+# mass_market microfiche microfilm misc_supplies mook mp3_cd pamphlet paperback perfect
+# plastic_comb pop-up preloaded_digital_audio_player rag_book ring_bound single_issue_magazine
+# slide spiral_bound stationery textbook toy transparency turtleback vinyl_bound
+# wall_chart workbook
+#
+# Reversed versions are below for easy 2-way lookup
+#
+3-Ring Binder|loose_leaf
+Boardbook|board_book
+Broadsheet|pamphlet
+Buckram|hardcover
+Cassette|cassette
+CD|cd_rom
+Cloth|hardcover
+DVD|dvd_rom
+Half Cloth|hardcover
+Half Leather|leather_bound
+Half Morocco|leather_bound
+Hardcover|hardcover
+Incunabula|pamphlet
+Leather|leather_bound
+Library Binding|library
+Limp Cloth|paperback
+Limp Leather|leather_bound
+Limp Leather with Yapp Edges|leather_bound
+Mass Market Paperback|mass_market
+Morocco|leather_bound
+Paper|hardcover
+Perfect Binding|perfect
+Plastic Comb|plastic_comb
+Pop-up Book|pop-up
+Quarter Cloth|hardcover
+Quarter Leather|leather_bound
+Quarter Morocco|leather_bound
+Silk moire|hardcover
+Softcover|paperback
+Spiralbound|spiral_bound
+Staplebound|paperback
+Three Quarter Leather|leather_bound
+Three-quarter Cloth|hardcover
+Three-Quarter Morocco|leather_bound
+Trade Paperback|paperback
+Unbound/Disbound|
+#
+# and Backwards!  
+#
+loose_leaf|3-Ring Binder
+board_book|Boardbook
+pamphlet|Broadsheet
+hardcover|Buckram
+cassette|Cassette
+cd_rom|CD
+hardcover|Cloth
+dvd_rom|DVD
+hardcover|Half Cloth
+leather_bound|Half Leather
+leather_bound|Half Morocco
+hardcover|Hardcover
+pamphlet|Incunabula
+leather_bound|Leather
+library|Library Binding
+paperback|Limp Cloth
+leather_bound|Limp Leather
+leather_bound|Limp Leather with Yapp Edges
+mass_market|Mass Market Paperback
+leather_bound|Morocco
+hardcover|Paper
+perfect|Perfect Binding
+plastic_comb|Plastic Comb
+pop-up|Pop-up Book
+hardcover|Quarter Cloth
+leather_bound|Quarter Leather
+leather_bound|Quarter Morocco
+hardcover|Silk moire
+paperback|Softcover
+spiral_bound|Spiralbound
+paperback|Staplebound
+leather_bound|Three Quarter Leather
+hardcover|Three-quarter Cloth
+leather_bound|Three-Quarter Morocco
+paperback|Trade Paperback
+|Unbound/Disbound
+#
+#Book Conditions (1-11) and DJ Conditions (0-4)
+#
+0|No Dust Jacket
+1|Used Like New
+2|Used Very Good
+3|Used Good
+4|Used Acceptable
+5|Collectible LikeNew
+6|Collectible VeryGood
+7|Collectible Good
+8|Collectible Acceptable
+11|New
+#
+# Amazon Book Categories
+# Their Selection:
+# Arts & Architecture ** Biographies & Memoirs ** Business Books ** Children's Books
+# Comics & Graphic Novels ** Computers & Internet ** Cooking, Food & Wine
+# Crafts & Hobbies ** Dictionaries - General ** Drama (Plays) ** Engineering
+# Entertainment - General ** Erotica ** Fantasy - General ** Gay & Lesbian
+# Health, Mind & Body ** History Books ** Home & Garden ** Horror
+# Investing & Finance ** Law Books ** Literature & Fiction ** Medicine & Pharmacy
+# Mystery & Thrillers ** Nonfiction - General ** Outdoors & Nature
+# Parenting & Families ** Philosophy - General ** Photography - General
+# Poetry - General ** Politics - General ** Reference Books ** Religion & Spirituality
+# Romance - General ** Science Fiction ** Science & Mathematics
+# Short Stories - General ** Social Sciences - General ** Sports Books
+# Technology - General ** Teen Books ** Travel Books
+#
+# Reversed versions are below for easy 2-way lookup
+#
+Antiques & Collectibles|Crafts & Hobbies
+Architecture|Arts & Architecture
+Art|Arts & Architecture
+Biographies & Autobiographies|Biographies & Memoirs
+Body, Mind & Spirit|Health, Mind & Body
+Business & Economics|Business Books
+Children's Fiction|Children's Books
+Children's Non-Fiction|Children's Books
+Comics & Graphic Novels|Comics & Graphic Novels
+Computers & the Internet|Computers & Internet
+Cooking|Cooking, Food & Wine
+Crafts & Hobbies|Crafts & Hobbies
+Drama|Drama (Plays)
+Education|Nonfiction - General
+Erotica|Erotica
+Family & Relationships|Parenting & Families
+Fantasy|Fantasy - General
+Fiction|Literature & Fiction
+Games|Entertainment - General
+Gardening|Home & Garden
+Gay & Lesbian|Gay & Lesbian
+Geography|Outdoors & Nature
+Health & Fitness|Health, Mind & Body
+History|History Books
+Horror|Horror
+House & Home|Home & Garden
+Humor|Literature & Fiction
+Language Arts & Disciplines|Literature & Fiction
+Language Study|Literature & Fiction
+Law|Law Books
+Literary Collections|Literature & Fiction
+Literary Criticism|Literature & Fiction
+Mathematics|Science & Mathematics
+Medical|Medicine & Pharmacy
+Music|Entertainment - General
+Mystery & Thrillers|Mystery & Thrillers
+Nature|Outdoors & Nature
+Performing Arts|Entertainment - General
+Pets|Health, Mind & Body
+Philosophy|Philosophy - General
+Photography|Photography - General
+Poetry|Poetry - General
+Political Science|Politics - General
+Psychology & Psychiatry|Medicine & Pharmacy
+Reference|Reference Books
+Religion|Religion & Spirituality
+Romance|Romance - General
+Science Fiction|Science Fiction
+Science|Science & Mathematics
+Self-Help|Health, Mind & Body
+Short Stories|Short Stories - General
+Social Sciences|Social Sciences - General
+Sports & Recreation|Sports Books
+Study Aids|Reference Books
+Technology|Technology - General
+Transportation|Technology - General
+Travel|Travel Books
+True Crime|Nonfiction - General
+Young Adult Fiction|Teen Books
+Young Adult Non-Fiction|Teen Books
+#
+# Reversed versions
+#
+Crafts & Hobbies|Antiques & Collectibles
+Arts & Architecture|Architecture
+Arts & Architecture|Art
+Biographies & Memoirs|Biographies & Autobiographies
+Health, Mind & Body|Body, Mind & Spirit
+Business Books|Business & Economics
+Children's Books|Children's Fiction
+Children's Books|Children's Non-Fiction
+Comics & Graphic Novels|Comics & Graphic Novels
+Computers & Internet|Computers & the Internet
+Cooking, Food & Wine|Cooking
+Crafts & Hobbies|Crafts & Hobbies
+Drama (Plays)|Drama
+Nonfiction - General|Education
+Erotica|Erotica
+Parenting & Families|Family & Relationships
+Fantasy - General|Fantasy
+Literature & Fiction|Fiction
+Entertainment - General|Games
+Home & Garden|Gardening
+Gay & Lesbian|Gay & Lesbian
+Outdoors & Nature|Geography
+Health, Mind & Body|Health & Fitness
+History Books|History
+Horror|Horror
+Home & Garden|House & Home
+Literature & Fiction|Humor
+Literature & Fiction|Language Arts & Disciplines
+Literature & Fiction|Language Study
+Law Books|Law
+Literature & Fiction|Literary Collections
+Literature & Fiction|Literary Criticism
+Science & Mathematics|Mathematics
+Medicine & Pharmacy|Medical
+Entertainment - General|Music
+Mystery & Thrillers|Mystery & Thrillers
+Outdoors & Nature|Nature
+Entertainment - General|Performing Arts
+Health, Mind & Body|Pets
+Philosophy - General|Philosophy
+Photography - General|Photography
+Poetry - General|Poetry
+Politics - General|Political Science
+Medicine & Pharmacy|Psychology & Psychiatry
+Reference Books|Reference
+Religion & Spirituality|Religion
+Romance - General|Romance
+Science Fiction|Science Fiction
+Science & Mathematics|Science
+Health, Mind & Body|Self-Help
+Short Stories - General|Short Stories
+Social Sciences - General|Social Sciences
+Sports Books|Sports & Recreation
+Reference Books|Study Aids
+Technology - General|Technology
+Technology - General|Transportation
+Travel Books|Travel
+Nonfiction - General|True Crime
+Teen Books|Young Adult Fiction
+Teen Books|Young Adult Non-Fiction
+
+
+
+
+
