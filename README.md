@@ -6,9 +6,11 @@ Cato comes in two moods: Light and Dark. Two separate jars, same Cato. The light
 
 Some requisites and nods:
 
-ftp4j-1.7.2.jar is required to compile Cato. It is avalable from here:  
+ftp4j-1.7.2.jar is required to compile Cato. It is avalable from here: 
+
 http://www.sauronsoftware.it/projects/ftp4j/
 
 The 16x16 pixel icons are from the Silk collection and the Tango collection.
+
 Silk: http://www.famfamfam.com/lab/icons/silk/
 Tango: https://commons.wikimedia.org/wiki/Tango_icons
