@@ -1,6 +1,6 @@
 # Cato
  
-Cato, the bookseller's database, has been released into the wild.  There are still a couple of things to be completed and tested, organized, pruned, etc.  I'm sure there are plenty of opportuniyies to streamline the code and create more unnecessary subclasses.  
+Cato, the bookseller's database, has been released into the wild.  There are still a couple of things to be completed and tested, organized, pruned, etc.  I'm sure there are plenty of opportunities to streamline the code and create more unnecessary subclasses.  
 
 Plesse note that the Help html file is in mid-state and still needs some extensive revision. The first half will be helpful, the following material, not so much.
 
