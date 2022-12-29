@@ -48,7 +48,7 @@ public class SpellCheck
 	HashSet<String> hashes = new HashSet<String>();
 	HashMap<String, String> phonemes = new HashMap<String, String>(150);
 	ArrayList<String> suggestions = new ArrayList<String>();
-	String DELIMITERS = "0123456789- ,.:;?!()*&^%$#@~`{}[]/<>+=\\\n\t\"";
+	String DELIMITERS = "0123456789-_ ,.:;?!()*&^%$#@~`{}[]/<>+=\\\n\t\"";
 	static HighlightPainter hp = new ColorUnderlinePainter(Color.red);
 	int start;
 	int end;
