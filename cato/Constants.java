@@ -322,7 +322,7 @@ public class Constants
 
 	private void saveOutTemplate(String name)
 	{
-		File file = new File(Constants.IMAGES_DIR + Constants.ps + name);
+		File file = new File(Constants.TEMPLATES_DIR + Constants.ps + name);
 		if (!file.exists())
 		{
 			String result = "";
